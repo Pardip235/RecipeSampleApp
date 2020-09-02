@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FoodRecipeDagger</string>
+    <string name="read_full_recipe_from_source">read full recipe from source</string>
+</resources>
